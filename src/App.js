@@ -1,6 +1,6 @@
 import './App.css';
-import LocationAutoComplete from './locationAutoComplete';
-import MapContainer from './MapContainer';
+import LocationAutoComplete from './components/locationautocomplete/locationAutoComplete';
+import MapContainer from './components/googlemap/MapContainer';
 
 function App() {
   return (
